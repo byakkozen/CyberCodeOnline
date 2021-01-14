@@ -912,6 +912,7 @@
 		"crocs with jibitz",
 		"Doc Martens"
 	],
-	"weaponSmithDefault": ["What do you want, stranger?"],
+	"weaponSmithDefault": ["What do you want, stranger?",
+                               "Checkout the wares I have scavenged today."],
 	"bankDefault": ["Welcome, do you have something to deposit?"]
 }
